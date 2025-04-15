@@ -223,8 +223,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9bbc40b3283578409cd535bafa22c89, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  inscriptosInfantiles: -1
-  inscriptosJuveniles: 3
+  inscriptosInfantiles: 59
+  inscriptosJuveniles: 43
 --- !u!4 &1926245146
 Transform:
   m_ObjectHideFlags: 0
